@@ -1,8 +1,4 @@
-### Hello World!
-
-I'm Diego Carravetta 👋
-- 🔭 Service Supervisor at the Electrolux
-- 🌱 JavaScript at Blue EdTech
+### Hello World! 👋
 
 <div>
   <a href="https://github.com/DiegoCarravetta">
